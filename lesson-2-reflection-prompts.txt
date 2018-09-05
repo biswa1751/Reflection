@@ -3,17 +3,26 @@ it creates a .git folder . we need it to save commit history
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+staging area is like a temp directory from where we can commit all files in staging area together.
+it offers commit id.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+add those file which i want to commit and commit them.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+branches are seperate mode .with branch i can make experiment.
 
 How do the diagrams help you visualize the branch structure?
+it says which branch can access which commit.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+it merge in single one .because we can understand.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+pros it can do
+cons sometimes it conflicts
+ 

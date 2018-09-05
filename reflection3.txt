@@ -5,25 +5,24 @@ when i want to available it publically to modify it.
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
-
-    Fill in your answer here
+then idecide and when i want to update my local repository.if it automatically update 
+then changes will occur without my permission.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
-
-    Fill in your answer here
+forks are cloneing one github account to other ,clones are just copy and branched 
+are ways to projrct just for experiments or changes.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
-
-    Fill in your answer here
+by this we can merge.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
-
-    Fill in your answer here
+we have to use google drive or dropbox.
+easier is sharing and modifying.
+harder is maintaining.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
-
-    Fill in your answer here
+for new experiments. 
